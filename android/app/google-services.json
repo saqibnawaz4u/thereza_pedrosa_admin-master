@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "509370392992",
+    "project_id": "therezaapp-67577",
+    "storage_bucket": "therezaapp-67577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509370392992:android:c3d0735920efd7f90a04c5",
+        "android_client_info": {
+          "package_name": "com.infusibleCoder.thereza_pedrosa_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509370392992-6gaa18qropogcvp7e0urqgelm4sui5tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUVk0t84dZ2pbj83WCf4beTAV-M_Xcb1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509370392992-6gaa18qropogcvp7e0urqgelm4sui5tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509370392992:android:0eead599fe61fecb0a04c5",
+        "android_client_info": {
+          "package_name": "com.infusiblecoder.thereza_pezroza_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509370392992-6gaa18qropogcvp7e0urqgelm4sui5tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUVk0t84dZ2pbj83WCf4beTAV-M_Xcb1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509370392992-6gaa18qropogcvp7e0urqgelm4sui5tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

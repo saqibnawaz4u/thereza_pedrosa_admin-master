@@ -1,0 +1,1 @@
+enum FieldClickType { START_DATE, END_DATE, TIME, PRODUCT_SELECTION }
